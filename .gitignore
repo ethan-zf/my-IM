@@ -22,3 +22,5 @@
 /web*.njsproj
 /web*.sln
 /web*.sw*
+
+/vux/node_modules
